@@ -1,2 +1,2 @@
-### homepage of an engineering student/soon to be graduate
+### homepage of a soon-to-be-graduate engineering student
  ✨ _pre-PHD_ ✨ 
