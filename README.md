@@ -1,6 +1,6 @@
-![hit counter](https://komarev.com/ghpvc/?username=melasq&style=flat-square&color=ff69b4&label=victims) ![protonmail](https://img.shields.io/badge/asgarim@pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)
 ### homepage of a soon-to-be-(under)graduate engineering student
- ✨ _pre-PHD_ ✨ 
+![hit counter](https://komarev.com/ghpvc/?username=melasq&style=flat-square&color=ff69b4&label=victims) ![protonmail](https://img.shields.io/badge/asgarim@pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)
+✨ _pre-PHD_ ✨ 
 <!--START_SECTION:badges-->
 
 <!--END_SECTION:badges-->
