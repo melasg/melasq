@@ -2,7 +2,7 @@
 ✨ _pre-PHD_ ✨ <br>
 
 ![hit counter](https://komarev.com/ghpvc/?username=melasq&style=flat-square&color=ff69b4&label=victims)
-[![protonmail](https://img.shields.io/badge/asgarim@pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:asgarim@pm.me)
+[![protonmail](https://img.shields.io/badge/asgarim@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:asgarim@pm.me)
 
 <!--START_SECTION:badges-->
 
