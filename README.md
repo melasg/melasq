@@ -2,7 +2,7 @@
 ![hit counter](https://komarev.com/ghpvc/?username=melasq&style=flat-square&color=ff69b4&label=victims)
 ![protonmail](https://img.shields.io/badge/asgarim@pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)
 [![Years Badge](https://badges.pufler.dev/repos/melasq?style=flat-square)](https://badges.pufler.dev)
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
 ✨ _pre-PHD_ ✨ 
