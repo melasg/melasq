@@ -1,6 +1,8 @@
 ### homepage of a soon-to-be-(under)graduate engineering student [![Years Badge](https://badges.pufler.dev/repos/melasq?style=social)](https://badges.pufler.dev)
-<th align="center">✨ _pre-PHD_ ✨ </th> <img align="right" src="https://komarev.com/ghpvc/?username=melasq&style=flat-square&color=ff69b4&label=victims"></img>
-<hr /> [![protonmail](https://img.shields.io/badge/asgarim@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:asgarim@pm.me)
+<p align="center">✨ _pre-PHD_ ✨ </p>
+<hr />
+[![protonmail](https://img.shields.io/badge/asgarim@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:asgarim@pm.me)
+ <img align="right" src="https://komarev.com/ghpvc/?username=melasq&style=flat-square&color=ff69b4&label=victims"></img>
 
 <!--START_SECTION:badges-->
 
