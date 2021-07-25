@@ -1,6 +1,7 @@
 ### home of a soon-to-be-(under)graduate student's stressed mind [![Years Badge](https://badges.pufler.dev/repos/melasq?style=social)](https://badges.pufler.dev)  <img align="right" src="https://komarev.com/ghpvc/?username=melasq&style=flat&color=ff69b4&label=victims"></img>
 <p align="center">✨ <b><i>pre-PHD</b></i> ✨ </p>
-<p align="center">CONTACT: <a href="mailto:asgarim@pm.me"><img src="https://img.shields.io/badge/asgarim@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></img></a><p>
+<p> <span> CONTACT: </p></span>
+<p align="center"><a href="mailto:asgarim@pm.me"><img src="https://img.shields.io/badge/asgarim@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></img></a><p>
 
 <!--MARKDOWN pm link [![protonmail](https://img.shields.io/badge/asgarim@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:asgarim@pm.me) -->
 
